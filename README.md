@@ -1,6 +1,6 @@
 # Hey, I'm Vivin Dube 
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
@@ -55,4 +55,4 @@
 - **LinkedIn:** [Hit me up here](https://linkedin.com/in/vivindube)
 
 ---
-<p align="center"><i>Thanks for stopping by. Try not to break production on your way out.</i></p>
+<p align="center"><i>Thanks for stopping by.</i></p>
