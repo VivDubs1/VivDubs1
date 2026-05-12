@@ -1,7 +1,7 @@
 # Hey, I'm Vivin Dube 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media.tenor.com/gj-or4FF8A4AAAAe/homelander-meme.png" width="300" alt="Coding GIF">
 </p>
 
 <p align="left">
