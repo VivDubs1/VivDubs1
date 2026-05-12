@@ -12,7 +12,7 @@
 
 ### The TL;DR
 - **Location:** Mumbai, India 🇮🇳
-- **Education:** B.Tech in Computer Engineering & Data Science at K.J. Somaiya School of Engineering.
+- **Education:** B.Tech in Computer Engineering & Honours in Data Science at K.J. Somaiya College of Engineering.
 - **What I do:** I speak both `git commit` and `deal closed`. From RAG pipelines and Web3 DApps to B2B enterprise sales and financial modeling.
 - **Status:** Open for work (Product, AI or anywhere the stakes are high).
 
@@ -54,4 +54,4 @@
 - **LinkedIn:** [Hit me up here](https://linkedin.com/in/vivindube)
 
 ---
-<p align="center"><i>Thanks for stopping by.</i></p>
+<p align="center"><i>Thanks for stopping by</i></p>
