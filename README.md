@@ -1,21 +1,20 @@
 # Hey, I'm Vivin Dube 
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
-<p align="center">
+<p align="left">
   <i>I like building things that sit at the intersection of tech and business. Whether it's closing a deal or shipping a product — if it makes the consultant sweat, I want in.</i>
 </p>
 
 ---
 
 ### The TL;DR
-- **Basecamp:** Mumbai, India 🇮🇳
+- **Location:** Mumbai, India 🇮🇳
 - **Education:** B.Tech in Computer Engineering & Data Science at K.J. Somaiya School of Engineering.
 - **What I do:** I speak both `git commit` and `deal closed`. From RAG pipelines and Web3 DApps to B2B enterprise sales and financial modeling.
-- **Status:** Actively open for work! (Product, AI, or anywhere the stakes are high).
-- **Fuel:** Powered entirely by Red Bull and questionable CSS. 
+- **Status:** Open for work (Product, AI or anywhere the stakes are high).
 
 ### What I'm usually hacking on
 - **AI & ML:** Training DeBERTa-v3 for emotion-aware music recommendations, messing around with Multimodal e-commerce price prediction, and predicting Magnus Carlsen's rapid game outcomes.
