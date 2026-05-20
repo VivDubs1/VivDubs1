@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <i>I like building things that sit at the intersection of tech and business. Whether it's closing a deal or shipping a product — if it makes the consultant sweat, I want in.</i>
+  <i>I like building things that sit at the intersection of tech and business. Whether it's closing a deal or shipping a product - if it makes the consultant sweat, I want in.</i>
 </p>
 
 ---
@@ -54,4 +54,4 @@
 - **LinkedIn:** [Hit me up here](https://linkedin.com/in/vivindube)
 
 ---
-<p align="center"><i>Thanks for stopping by</i></p>
+<p align="center"><i>Thanks for hopping by</i></p>
